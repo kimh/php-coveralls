@@ -1,7 +1,7 @@
 machine:
   timezone: America/Los_Angeles
   php:
-    version: 5.5.0
+    version: 5.6.17
 
 dependencies:
   override:
